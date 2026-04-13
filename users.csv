@@ -1,0 +1,4 @@
+username,password,first_name,last_name,phone,blood_group,allergies,age,gender,medical_info,alcoholic,smoker
+dixittharunraja,scrypt:32768:8:1$nDCTdxBMIzwsHT6L$96cdc390ca6a9a8e4be4eb9d38171f15982c01def1670c7e8d1daddd33951c35650a82456f468dd605b93beab710e136b329041c805e0a0f9f4a1e23f05ac424,Dixit Tharun Raja,P,9597527581,O+,none,,Male,,No,No
+sam,scrypt:32768:8:1$KFfPLDvzMCrWACmS$ac73e56c9d3e92bb03132cdb116ec22e9fab1719c46a55f6e00acafe9005bd3a940d51c57b68a769027caab78a183fd8d3b8e4e12d031b37e3727926cc576525,samyuktha,ss,8754505050,B+,none,,Female,,No,No
+Selva,scrypt:32768:8:1$CdH66Zgp6UuUPhnC$4a64d516cb4aa8a6e86329c774894ff13423e285bfc6fc76aa68b1412c7c509cd001d0ee80c38933ade355b129e60f1652f493f6e00552c02e0dc3fc49df2df4,Selva ,Kumar,6374107802,O+,None,,Male,,No,No

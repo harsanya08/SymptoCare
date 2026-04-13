@@ -1,2 +1,1 @@
-# SymptoCare
-AI-based medical diagnosis system
+# Medicine_recommender

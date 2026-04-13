@@ -1,0 +1,2 @@
+date,time,username,temperature,weight,oxygen_level,pulse_rate,headache,nausea,cough,fatigue,cold_symptoms,stomach_pain,other,prescription
+2025-01-27,21:37:06,Selva,98°F,50 kg,90%,72 bpm,,,,,"Runny Nose, Sneezing, Post-Nasal Drip",,,"Based on the reported symptoms: The Patient has  98°F temperature,  50 kg weight,  90% oxygen level,  72 bpm pulse rate,  None headache,  None nausea,  None cough,  None fatigue, cold symptoms including Runny Nose, Sneezing, Post-Nasal Drip,  None stomach pain., here is a recommended prescription:  Prescription will be here!"
